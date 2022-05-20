@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on climatetech projects.
 - 🤔 I’m looking for help with getting a fulltime job in climate focused startups.
 - 💬 Ask me about green software architecture 
-- 📫 reach me @dumehM on twitter and dumeccs@gmail.com 
+- 📫 reach me @dumehM on twitter/dumeccs@gmail.com 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I enjoy Talking about climate and technology in really relatable ways
 
